@@ -29,3 +29,4 @@ const verificarLogin = async (req, res, next) => {
     }
 
     modulue.exports = verificarLogin;
+    
